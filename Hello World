@@ -1,0 +1,13 @@
+Write a Python program to print "Hello World".
+print("Hello World")
+
+Calculate the sum of two numbers entered by the user.
+Frist= input("enter frist number")
+second+("enter second number")
+sum=int(Frist)+int (Second)
+prin=(sum)
+
+Convert Temperature from Celsius to Fahrenheit.
+c=float(input("Enter Temperature in C-Scale:"))
+f= (c*9)/5+32
+print("The Temprature in F-Scale:",round(f,2))
